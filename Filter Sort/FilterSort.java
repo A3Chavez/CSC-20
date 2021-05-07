@@ -27,7 +27,7 @@ public class FilterSort {
     
     public static void main(String[] args) {
         int[] data = new int[8];
-        String fileName = "data4.txt"; //specify file name here
+        String fileName = "data.txt"; //specify file name here
         Scanner file;
         try {
             file = new Scanner(new File(fileName));
